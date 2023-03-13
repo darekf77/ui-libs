@@ -4,7 +4,6 @@
     "version": "v3",
     "type": "container",
     "linkedProjects": [
-      ".vscode",
       "bs3-breakpoint",
       "bs3-table",
       "bs4-breakpoint",

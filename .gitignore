@@ -48,7 +48,6 @@ Thumbs.db
 
 
 # container/workspace git projects
-/.vscode
 /bs3-breakpoint
 /bs3-table
 /bs4-breakpoint

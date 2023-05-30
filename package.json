@@ -28,7 +28,8 @@
       ],
       "includeAsDev": [],
       "includeOnly": [],
-      "dependencies": {}
+      "dependencies": {},
+      "npmFixes": []
     },
     "smartContainerBuildTarget": "",
     "linkedRepos": [],

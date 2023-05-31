@@ -21,6 +21,7 @@
       "static-columns",
       "tnp-ui"
     ],
+    "generateChangelog": true,
     "overrided": {
       "linkedFolders": [],
       "ignoreDepsPattern": [

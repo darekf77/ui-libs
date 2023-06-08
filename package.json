@@ -157,7 +157,7 @@
     "express-session": "1.17.3",
     "file-loader": "1.1.5",
     "file-saver": "2.0.5",
-    "firedev": "~13.1.111",
+    "firedev": "~13.2.12",
     "firedev-crud": "~13.1.50",
     "firedev-crud-deamon": "~13.1.40",
     "firedev-ports": "~13.1.45",

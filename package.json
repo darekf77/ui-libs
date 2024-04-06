@@ -40,7 +40,8 @@
       "includeNodeModules": false,
       "cliBuildNoDts": false,
       "cliBuildObscure": false,
-      "cliBuildIncludeNodeModules": false
+      "cliBuildIncludeNodeModules": false,
+      "cliBuildUglify": false
     }
   },
   "name": "ui-libs",
@@ -288,5 +289,6 @@
     "yup": "1.1.1",
     "zone.js": "~0.11.4"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "dist/app.electron.js"
 }

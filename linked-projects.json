@@ -1,0 +1,64 @@
+{
+  "projects": [
+    {
+      "relativeClonePath": "bs3-breakpoint",
+      "repoUrl": "https://github.com/darekf77/bs3-breakpoint.git"
+    },
+    {
+      "relativeClonePath": "bs3-table",
+      "repoUrl": "https://github.com/darekf77/bs3-table.git"
+    },
+    {
+      "relativeClonePath": "bs4-breakpoint",
+      "repoUrl": "https://github.com/darekf77/bs4-breakpoint.git"
+    },
+    {
+      "relativeClonePath": "button-dropdown",
+      "repoUrl": "https://github.com/darekf77/button-dropdown.git"
+    },
+    {
+      "relativeClonePath": "edit-table",
+      "repoUrl": "https://github.com/darekf77/edit-table.git"
+    },
+    {
+      "relativeClonePath": "firedev-stor",
+      "repoUrl": "https://github.com/darekf77/firedev-stor.git"
+    },
+    {
+      "relativeClonePath": "loading-info",
+      "repoUrl": "https://github.com/darekf77/loading-info.git"
+    },
+    {
+      "relativeClonePath": "ng2-accordions",
+      "repoUrl": "https://github.com/darekf77/ng2-accordions.git"
+    },
+    {
+      "relativeClonePath": "ng2-button-loader",
+      "repoUrl": "https://github.com/darekf77/ng2-button-loader.git"
+    },
+    {
+      "relativeClonePath": "ng2-preloader",
+      "repoUrl": "https://github.com/darekf77/ng2-preloader.git"
+    },
+    {
+      "relativeClonePath": "ng2-scroll-slider",
+      "repoUrl": "https://github.com/darekf77/ng2-scroll-slider.git"
+    },
+    {
+      "relativeClonePath": "ng2-tags",
+      "repoUrl": "https://github.com/darekf77/ng2-tags.git"
+    },
+    {
+      "relativeClonePath": "ng4-icons",
+      "repoUrl": "https://github.com/darekf77/ng4-icons.git"
+    },
+    {
+      "relativeClonePath": "ng4-modal",
+      "repoUrl": "https://github.com/darekf77/ng4-modal.git"
+    },
+    {
+      "relativeClonePath": "tnp-ui",
+      "repoUrl": "https://github.com/darekf77/tnp-ui.git"
+    }
+  ]
+}

@@ -3,23 +3,6 @@
     "resources": [],
     "version": "v3",
     "type": "container",
-    "linkedProjects": [
-      "bs3-breakpoint",
-      "bs3-table",
-      "bs4-breakpoint",
-      "button-dropdown",
-      "edit-table",
-      "firedev-stor",
-      "loading-info",
-      "ng2-accordions",
-      "ng2-button-loader",
-      "ng2-preloader",
-      "ng2-scroll-slider",
-      "ng2-tags",
-      "ng4-icons",
-      "ng4-modal",
-      "tnp-ui"
-    ],
     "generateChangelog": true,
     "overrided": {
       "linkedFolders": [],

@@ -1,0 +1,26 @@
+{
+  "resources": [],
+  "version": "v3",
+  "type": "container",
+  "generateChangelog": true,
+  "overrided": {
+    "linkedFolders": [],
+    "ignoreDepsPattern": ["*"],
+    "includeAsDev": [],
+    "includeOnly": [],
+    "dependencies": {},
+    "npmFixes": []
+  },
+  "smartContainerBuildTarget": "",
+  "linkedRepos": [],
+  "libReleaseOptions": {
+    "nodts": false,
+    "obscure": false,
+    "ugly": false,
+    "includeNodeModules": false,
+    "cliBuildNoDts": false,
+    "cliBuildObscure": false,
+    "cliBuildIncludeNodeModules": false,
+    "cliBuildUglify": false
+  }
+}
